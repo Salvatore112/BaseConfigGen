@@ -17,7 +17,7 @@
 
 - Python 3.11+
 
-## Запуск (для Python3.11)
+## Запуск (для python3.11)
 
 ```bash
 git clone https://github.com/Salvatore112/BaseConfigGen.git
